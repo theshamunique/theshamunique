@@ -1,6 +1,6 @@
 from pathlib import Path
 
-readme = r'''<!-- ═════════════════════ HERO ═════════════════════ -->
+<!-- ═════════════════════ HERO ═════════════════════ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,45:302B63,100:24C6DC&height=240&section=header&text=Shahanwaj%20Ahmad&fontSize=54&fontColor=F8FAFC&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Data%20Analytics%20Learner%20%7C%20Content%20Creator&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Gradient header introducing Shahanwaj Ahmad"/>
