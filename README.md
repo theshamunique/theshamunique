@@ -12,6 +12,19 @@
 
 <p>
   Exploring technology, designing digital experiences, and building projects that solve real problems.
+
+
+
+
+
+
+
+
+
+
+
+
+  
 </p>
 
 <a href="https://github.com/YOUR_USERNAME">
@@ -28,6 +41,25 @@
 <br/>
 
 **🎯 Learn • Build • Innovate • Grow**
+
+</div>
+<div align="center">
+
+<h3>⌘ PROGRAMMING</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark"
+     alt="Programming technology icons">
+
+<h3>✦ WEB DEVELOPMENT</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark"
+     alt="Web development icons">
+
+<h3>◈ AI & DATA</h3>
+<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow&theme=dark"
+     alt="AI and data technology icons">
+
+<h3>⚙ TOOLS & DESIGN</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"
+     alt="Developer tools and design icons">
 
 </div>
 
