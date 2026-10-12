@@ -1,195 +1,229 @@
-<!-- ═══════════════════════════════════════════════════════════
-     SHAHANWAJ AHMAD · GITHUB PROFILE README
-     Palette: #080B12 · #0F172A · #24C6DC · #8B5CF6 · #F8FAFC · #94A3B8 · #302B63
-     Place this file at: github.com/theshamunique/theshamunique/README.md
-════════════════════════════════════════════════════════════ -->
+from pathlib import Path
 
-<!-- ═══════════════ 1. HERO ═══════════════ -->
+readme = r'''<!-- ═════════════════════ HERO ═════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,35:302B63,70:8B5CF6,100:24C6DC&height=250&section=header&text=Shahanwaj%20Ahmad&fontSize=60&fontColor=F8FAFC&fontAlignY=40&desc=Frontend%20Developer%20%C2%B7%20Data%20Analytics%20Learner%20%C2%B7%20Content%20Creator&descSize=17&descColor=F8FAFC&descAlignY=62&animation=fadeIn" alt="Banner with the name Shahanwaj Ahmad and the roles Frontend Developer, Data Analytics Learner and Content Creator" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,45:302B63,100:24C6DC&height=240&section=header&text=Shahanwaj%20Ahmad&fontSize=54&fontColor=F8FAFC&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Data%20Analytics%20Learner%20%7C%20Content%20Creator&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Gradient header introducing Shahanwaj Ahmad"/>
 
-<a href="https://github.com/theshamunique">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=24C6DC&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Shahanwaj+Ahmad+%F0%9F%91%8B;Frontend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Crafting+clean%2C+responsive+interfaces;Learning+Data+Analytics+%F0%9F%93%8A;Content+Creator+%C2%B7+Always+Building" alt="Animated typing headline: Frontend Developer from India, learning Data Analytics, content creator" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shahanwaj+Ahmad+%F0%9F%91%8B;Frontend+Developer+%7C+UI+Enthusiast;Exploring+Data+Analytics+%F0%9F%93%8A;Building+clean%2C+responsive+digital+experiences;Learning%2C+creating%2C+and+growing+every+day+%F0%9F%9A%80" alt="Animated introduction and professional interests"/>
 </a>
 
 <p>
-  <sub><span>I design and build clean, modern web interfaces, and I'm now learning to turn data into insight.<br/>I also share what I learn through content.</span></sub>
+  <a href="https://github.com/theshamunique"><img src="https://img.shields.io/badge/GitHub-theshamunique-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+  <a href="mailto:thesham0001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-24C6DC?style=for-the-badge&logo=gmail&logoColor=08111D" alt="Email Shahanwaj"/></a>
+  <img src="https://komarev.com/ghpvc/?username=theshamunique&label=PROFILE%20VIEWS&color=24C6DC&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/theshamunique?label=FOLLOWERS&style=for-the-badge&logo=github&color=8B5CF6&labelColor=0F172A" alt="GitHub followers"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=theshamunique&label=Profile%20Views&color=24C6DC&labelColor=0F172A&style=for-the-badge" alt="Profile views counter"/>
-<img src="https://img.shields.io/github/followers/theshamunique?label=Followers&style=for-the-badge&logo=github&logoColor=F8FAFC&color=8B5CF6&labelColor=0F172A" alt="GitHub followers badge"/>
-<img src="https://img.shields.io/badge/Based%20in-India-24C6DC?style=for-the-badge&labelColor=0F172A" alt="Based in India"/>
-
-<br/><br/>
-
-<!-- ✏️ CUSTOMIZE: add a Portfolio button here once your site is live, e.g.
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website"/></a>
--->
-<a href="https://github.com/theshamunique"><img src="https://img.shields.io/badge/GitHub-24C6DC?style=for-the-badge&logo=github&logoColor=080B12" alt="GitHub profile"/></a>
-<a href="https://linkedin.com/in/shahanwajahmad"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
-<a href="mailto:thesham0001@gmail.com"><img src="https://img.shields.io/badge/Email_Me-302B63?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
+**Turning ideas into clean interfaces and meaningful digital experiences.**
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24C6DC,100:8B5CF6&height=2" width="100%" alt="divider"/>
+## ◈ About Me
 
-<!-- ═══════════════ 2. PROFILE CARDS (glass-inspired panels) ═══════════════ -->
-<h2 align="center">✦ Profile Dashboard ✦</h2>
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <sub>Passionate frontend developer from India who enjoys turning ideas into clean, responsive and user-friendly interfaces.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Frontend-24C6DC?style=flat-square&labelColor=0F172A" alt="Frontend"/>
-      <img src="https://img.shields.io/badge/India-8B5CF6?style=flat-square&labelColor=0F172A" alt="India"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Current Project</h3>
-      <sub>Building my <b>personal portfolio website</b> to showcase my work, skills and story.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-In_Progress-24C6DC?style=flat-square&labelColor=0F172A" alt="Status: in progress"/>
-      <!-- ✏️ CUSTOMIZE: link the repo when ready, e.g. [View repo](https://github.com/theshamunique/YOUR-REPO) -->
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌱 Currently Learning</h3>
-      <sub>Exploring <b>Data Analytics</b>, learning how to clean, analyse and visualise data to tell meaningful stories.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Data_Analytics-8B5CF6?style=flat-square&labelColor=0F172A" alt="Data Analytics"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Data Analytics</h3>
-      <sub>Working with <b>Python</b> and <b>Pandas</b>, combining data skills with frontend know-how to build clear, insightful visuals.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-24C6DC?style=flat-square&logo=python&logoColor=080B12&labelColor=0F172A" alt="Python"/>
-      <img src="https://img.shields.io/badge/Pandas-8B5CF6?style=flat-square&logo=pandas&logoColor=white&labelColor=0F172A" alt="Pandas"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 UI/UX &amp; Creative Design</h3>
-      <sub>I care about how things look <i>and</i> feel. I design with <b>Figma</b>, <b>Photoshop</b> and <b>Illustrator</b>.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Figma-24C6DC?style=flat-square&logo=figma&logoColor=080B12&labelColor=0F172A" alt="Figma"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎥 Content Creation</h3>
-      <sub>I'm a content creator, sharing what I learn and build with the community.</sub>
-      <br/><br/>
-      <a href="https://www.youtube.com/c/theshamunique"><img src="https://img.shields.io/badge/Watch_on_YouTube-8B5CF6?style=flat-square&logo=youtube&logoColor=white&labelColor=0F172A" alt="Watch on YouTube"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🤝 Collaboration Interests</h3>
-      <sub>Open to conversations about <b>web development</b>, <b>data analytics</b>, <b>UI/UX</b> and <b>content creation</b>. Ask me about <b>Data Analytics &amp; Web Development</b>.</sub>
-      <!-- ✏️ CUSTOMIZE: add the types of collaboration you want (open source, freelance, mentoring, etc.) -->
-    </td>
+```yaml
+name: Shahanwaj Ahmad
+username: theshamunique
+role: Frontend Developer
+location: India 🇮🇳
+currently_building: Personal Portfolio Website
+currently_learning: Data Analytics
+interests:
+  - Web Development
+  - UI/UX Design
+  - Data Analytics
+  - Content Creation
+```
+
+</td>
+<td width="45%" valign="top">
+
+### A little about my journey
+
+I enjoy creating responsive, user-friendly interfaces and exploring how thoughtful design can make technology easier to use. I'm currently building my personal portfolio and learning more about data analytics.
+
+**I’m interested in:** clean UI, practical web projects, visual storytelling, and continuous learning.
+
+</td>
   </tr>
 </table>
 
-<br/>
+## ✦ Explore My Focus
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:24C6DC&height=2" width="100%" alt="divider"/>
-
-<!-- ═══════════════ 3. TECH STACK ═══════════════ -->
-<h2 align="center">✦ Tech Stack ✦</h2>
-
-<div align="center">
-
-<sub><b>FRONTEND DEVELOPMENT</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React, Next.js, Bootstrap, Sass, Tailwind CSS"/>
-
-<br/><br/>
-
-<sub><b>BACKEND &amp; DATABASES</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase,graphql&theme=dark" alt="Node.js, MySQL, Firebase, GraphQL"/>
-
-<br/><br/>
-
-<sub><b>PROGRAMMING &amp; DATA ANALYTICS</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=py,pandas,c,cpp,java&theme=dark" alt="Python, Pandas, C, C++, Java"/>
-
-<br/><br/>
-
-<sub><b>UI/UX &amp; CREATIVE TOOLS</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender&theme=dark" alt="Figma, Photoshop, Illustrator, Blender"/>
-
-<br/><br/>
-
-<sub><b>TOOLS &amp; CLOUD</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws,azure&theme=dark" alt="Git, GitHub, VS Code, Docker, Linux, AWS, Azure"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24C6DC,100:8B5CF6&height=2" width="100%" alt="divider"/>
-
-<!-- ═══════════════ 4. GITHUB STATS DASHBOARD ═══════════════ -->
-<h2 align="center">✦ GitHub Analytics ✦</h2>
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=theshamunique&show_icons=true&hide_border=true&border_radius=16&bg_color=0F172A&title_color=24C6DC&icon_color=8B5CF6&text_color=F8FAFC&count_private=true" alt="GitHub statistics card for theshamunique"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshamunique&layout=compact&hide_border=true&border_radius=16&bg_color=0F172A&title_color=24C6DC&text_color=F8FAFC" alt="Most used programming languages card"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=theshamunique&hide_border=true&border_radius=16&background=0F172A&ring=24C6DC&fire=8B5CF6&currStreakLabel=24C6DC&currStreakNum=F8FAFC&sideLabels=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theshamunique&bg_color=0F172A&color=24C6DC&line=8B5CF6&point=F8FAFC&area=true&area_color=8B5CF6&hide_border=true&title_color=24C6DC" alt="Contribution activity graph" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=theshamunique&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub profile trophies"/>
-
-<br/>
-<sub>Stats not loading? External services sometimes rate-limit. <a href="https://github.com/theshamunique">View the live profile on GitHub</a>.</sub>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:24C6DC&height=2" width="100%" alt="divider"/>
-
-<!-- ═══════════════ 5. FEATURED PROJECTS ═══════════════ -->
-<h2 align="center">✦ Featured Projects ✦</h2>
-
-<table align="center" width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Personal Portfolio</h3>
-      <sub>My personal portfolio website, showcasing my projects, skills and story.</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-In_Progress-24C6DC?style=flat-square&labelColor=0F172A" alt="Status: in progress"/>
-      <!-- ✏️ CUSTOMIZE: update the tech icons to match your real stack, then add links:
-      <a href="https://github.com/theshamunique/YOUR-REPO">Repository</a> · <a href="https://YOUR-LIVE-URL">Live Demo</a> -->
-    </td>
+
+### 🚀 Building
+
+**Personal Portfolio Website**
+
+Developing a portfolio to present my work, skills, and creative interests in one place.
+
+</td>
     <td width="50%" valign="top">
-      <h3>✨ More coming soon</h3>
-      <sub>Browse everything I've built so far in my repositories.</sub>
-      <br/><br/>
-      <a href="https://github.com/theshamunique?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="View all repositories"/></a>
-    </td>
+
+### 🌱 Learning
+
+**Data Analytics**
+
+Growing my skills in data-focused thinking, programming, and turning information into insights.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎨 Creating
+
+**Frontend & UI/UX**
+
+Exploring responsive layouts, polished interfaces, and thoughtful user experiences.
+
+</td>
+    <td width="50%" valign="top">
+
+### 🤝 Collaborating
+
+**Ideas into projects**
+
+Open to learning with others, sharing ideas, and collaborating on useful digital experiences.
+
+</td>
   </tr>
 </table>
 
-<!-- ✏️ PROJECT CARD TEMPLATE: copy this <td> block into the table above and fill it in.
+> [!NOTE]
+> GitHub README files do not run custom CSS or JavaScript. These table-based panels create a clean, card-like layout; true glass blur, hover effects, and scroll-triggered slide-ins require a separate website. Animated SVGs and typing images below provide motion that works within a README.
+
+---
+
+## ◈ Tech Stack
+
+<div align="center">
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React, Next.js, Bootstrap, Sass, and Tailwind CSS"/>
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase,graphql&theme=dark" alt="Node.js, MySQL, Firebase, and GraphQL"/>
+
+### Programming & Data
+<img src="https://skillicons.dev/icons?i=python,pandas,c,cpp,java&theme=dark" alt="Python, Pandas, C, C++, and Java"/>
+
+### Design & Creative Tools
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender&theme=dark" alt="Figma, Photoshop, Adobe Illustrator, and Blender"/>
+
+### Tools & Cloud
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws,azure&theme=dark" alt="Git, GitHub, VS Code, Docker, Linux, AWS, and Azure"/>
+
+</div>
+
+---
+
+## ◈ GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/theshamunique">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=theshamunique&show_icons=true&hide_border=true&rank_icon=github&bg_color=080B12&title_color=24C6DC&icon_color=8B5CF6&text_color=F8FAFC" alt="GitHub statistics for Shahanwaj Ahmad"/>
+</a>
+<a href="https://github.com/theshamunique">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshamunique&layout=compact&hide_border=true&bg_color=080B12&title_color=24C6DC&text_color=F8FAFC" alt="Most-used programming languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=theshamunique&hide_border=true&background=080B12&ring=24C6DC&fire=8B5CF6&currStreakLabel=24C6DC&sideLabels=F8FAFC&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theshamunique&bg_color=080B12&color=24C6DC&line=8B5CF6&point=F8FAFC&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=theshamunique&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub profile trophies"/>
+
+</div>
+
+---
+
+## ◈ Featured Projects
+
+<!-- CUSTOMIZE: Replace these example cards with real repository names, descriptions, and links. Do not leave placeholder links in the final profile. -->
+
+<table>
+  <tr>
     <td width="50%" valign="top">
-      <h3>📌 PROJECT NAME</h3>
-      <sub>One-line description of what it does.</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,css,js&theme=dark" alt="Technologies used"/>
-      <br/>
-      <a href="https://github.com/theshamunique/REPO-
+
+### 🌐 Personal Portfolio Website
+
+A personal website in progress to showcase my profile, frontend skills, projects, and creative work.
+
+**Focus:** Responsive design · UI/UX · Frontend
+
+<!-- Replace YOUR-REPOSITORY with your real repository name -->
+<a href="https://github.com/theshamunique"> <img src="https://img.shields.io/badge/Explore%20Repositories-24C6DC?style=for-the-badge&logo=github&logoColor=08111D" alt="Explore GitHub repositories"/></a>
+
+</td>
+    <td width="50%" valign="top">
+
+### ✨ More Projects
+
+Have another project to feature? Add its real repository, a concise description, the technologies used, and a live demo if available.
+
+**Suggested details:** Problem · Solution · Tech stack
+
+<a href="https://github.com/theshamunique?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/></a>
+
+</td>
+  </tr>
+</table>
+
+---
+
+## ◈ Beyond the Code
+
+<div align="center">
+
+| 🎨 Design | 📊 Discover | 🎥 Share |
+|:---:|:---:|:---:|
+| Building clean, thoughtful interfaces | Learning from data and patterns | Creating and sharing content |
+
+</div>
+
+I enjoy combining creativity with technology, learning new tools, and steadily improving the way I build and communicate ideas.
+
+---
+
+## ◈ Let's Connect
+
+<div align="center">
+
+<a href="mailto:thesham0001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/shahanwajahmad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/theshamunique"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-111827?style=for-the-badge&logo=x&logoColor=white" alt="X or Twitter"/></a>
+<a href="https://instagram.com/theshamunique"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.youtube.com/c/theshamunique"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://fb.com/theshamunique"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Keep+learning.+Keep+building.+Keep+creating.+%F0%9F%9A%80;Let's+connect+and+build+something+useful+%F0%9F%A4%9D" alt="Animated thank-you and collaboration message"/>
+
+</div>
+
+<!-- ═════════════════════ FOOTER ═════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24C6DC,50:302B63,100:080B12&height=120&section=footer" width="100%" alt="Cyan and violet gradient wave footer"/>
+'''
+
+path = Path("/mnt/data/README.md")
+path.write_text(readme, encoding="utf-8")
+print(f"Created {path} ({len(readme.splitlines())} lines, {path.stat().st_size} bytes)")
